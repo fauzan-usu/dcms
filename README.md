@@ -39,7 +39,7 @@ extension=exif
 
 ```bash
 # Jika menggunakan Git
-git clone https://github.com/yourrepo/dcms.git C:/xampp/htdocs/dcms
+git clone https://github.com/fauzan-usu/dcms.git C:/xampp/htdocs/dcms
 
 # Atau ekstrak arsip ZIP ke:
 # C:/xampp/htdocs/dcms
